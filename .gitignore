@@ -1,0 +1,12 @@
+# Compiled program
+student_record_system
+*.o
+*.out
+a.out
+
+# Data files created when the program runs
+students.dat
+temp.dat
+
+# Mac system files
+.DS_Store
